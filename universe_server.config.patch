@@ -8,15 +8,15 @@
 			"op" : "add",
 			"path" : "/speciesShips/wotter",
 			"value" : [
-				"/ships/avali/avalit0.structure",
-				"/ships/avali/avalit1.structure",
-				"/ships/avali/avalit2.structure",
-				"/ships/avali/avalit3.structure",
-				"/ships/avali/avalit4.structure",
-				"/ships/avali/avalit5.structure",
-				"/ships/avali/avalit6.structure",
-				"/ships/avali/avalit7.structure",
-				"/ships/avali/avalit8.structure"
+				"/ships/novakid/novakidt0.structure",
+				"/ships/novakid/novakidt1.structure",
+				"/ships/novakid/novakidt2.structure",
+				"/ships/novakid/novakidt3.structure",
+				"/ships/novakid/novakidt4.structure",
+				"/ships/novakid/novakidt5.structure",
+				"/ships/novakid/novakidt6.structure",
+				"/ships/novakid/novakidt7.structure",
+				"/ships/novakid/novakidt8.structure"
 			]
 		}
 	]
