@@ -1,9 +1,9 @@
 {
 	//A unique id for this codex
-	"id" : "smolavalihistory1",
+	"id" : "wotterhistory1",
 
 	//this should stay commented unless you have the burning desire to make it so that the
-	//codex is part of one of the vanilla species category. 
+	//codex is part of one of the vanilla species category.
 	//it can be either be omited or use one of these values:
 	//apex, avian, floran, human, hylotl, glitch or novakid
 	//"species" : "human",
@@ -15,7 +15,7 @@
 	"description" : "A description of the content of this codex",
 
 	//the icon used both for the in game item and codex library entry.
-	"icon" : "smolavalicover1.png",
+	"icon" : "wottercover1.png",
 
 	//This where you write you greatest stories, or worst fan fictions,
 	//To insert a new line character using \n will not be good enough.
@@ -39,7 +39,7 @@ It caused such something no one saw coming, except that one paranoid citizen."
   "itemConfig" : {
 	//It's rarity, it can either be: common(white), uncommon(green), rare(blue), legendary(purple)
 	"rarity" : "common",
-	
+
 	//it's selling price, by convention all books cost 25 pixels.
 	"price" : 25
   }

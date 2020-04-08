@@ -1,2 +1,2 @@
-# smolavali
+# wotter
 Avali but smol

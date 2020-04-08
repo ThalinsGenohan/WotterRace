@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/species/smolavali",
+    "path": "/species/wotter",
     "value": {
       "aiFrames": "avaliai.png",
       "portraitFrames": "portraits/avaliportrait.png",

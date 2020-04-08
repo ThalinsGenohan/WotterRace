@@ -8,7 +8,7 @@
 		//template folder.
 		{
 			"op" : "add",
-			"path" : "/initialquests/smolavali",
+			"path" : "/initialquests/wotter",
 			"value" : [
 				"protectorate"
 			]

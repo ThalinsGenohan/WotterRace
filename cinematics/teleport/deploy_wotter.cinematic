@@ -178,7 +178,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/deploypodin_smolavali.png:<frame>"
+          "image" : "/cinematics/teleport/deploypodin_wotter.png:<frame>"
         }
       ],
       "animationFrames" : 10,
@@ -209,7 +209,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/deploypod_smolavali.png:<frame>"
+          "image" : "/cinematics/teleport/deploypod_wotter.png:<frame>"
         }
       ],
       "animationFrames" : 2,
